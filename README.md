@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pravallikaC7
-- 👀 I’m interested in Automated testing of web applications
+- 👀 I’m interested in Automated testing of web applications, process automation of web applications
 - 🌱 I’m currently learning Selenium with Java
 - 💞️ I’m looking to collaborate on Automation testing projects
 - 📫 How to reach me pravallikachilukuri7@gmail.com
